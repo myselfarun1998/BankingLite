@@ -1,0 +1,302 @@
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Poppins:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+* {
+  margin: 0%;
+  /* overflow-y: hidden; */
+  font-family: "Poppins", sans-serif;
+  background-color: #f2f5c8;
+
+}
+
+.container {
+  margin-top: 15%;
+
+  margin-left: 40%;
+  /* background-color: blue; */
+  padding-bottom: 50px;
+  height: auto;
+}
+.upitxt {
+  margin-left: 35%;
+  margin-top: 100px;
+  position: absolute;
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+}
+.btn {
+  margin-left: 46%;
+  padding: 15px 40px;
+  border-radius: 30px;
+  border: 2px solid black;
+  border-style: double;
+  margin-top: 5%;
+}
+
+.img {
+  width: 150px;
+  height: 150px;
+  margin-left: 35%;
+  margin-top: 50%;
+  border: 2px solid black;
+  padding: 20px;
+  background-color: #8946a6;
+  border-radius: 30px;
+}
+.phoneform {
+  position: absolute;
+  /* margin-top: -0%; */
+  font-family: "Poppins", sans-serif;
+}
+.phoneform input {
+  border-radius: 20px;
+  font-family: "Poppins", sans-serif;
+}
+.phonebutton {
+  margin-left: 61%;
+  padding: 10px 30px;
+  border-radius: 30px;
+  border: 2px solid black;
+  border-style: double;
+  background-color: #270082;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  position: absolute;
+  margin-top: 4%;
+}
+
+.phonetxt {
+  margin-top: -7%;
+  position: absolute;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  text-transform: capitalize;
+  margin-left: 42%;
+  border: 2px solid black;
+  padding: 10px;
+  background-color: #dd4a48;
+  color: white;
+  border-radius: 10px;
+}
+
+.bankbutton{
+  margin-left: 61%;
+  padding: 10px 30px;
+  border-radius: 30px;
+  border: 2px solid black;
+  border-style: double;
+  background-color: #270082;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  position: absolute;
+  margin-top: 4%;
+}
+.banktext{
+  margin-top: -9%;
+  position: absolute;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  text-transform: capitalize;
+  margin-left: 43%;
+  border: 2px solid black;
+  padding: 10px;
+  background-color: #dd4a48;
+  color: white;
+  border-radius: 10px;
+}
+
+
+.dashboard{
+  margin-left: 9%;
+  padding: 10px 30px;
+  border-radius: 30px;
+  border: 2px solid black;
+  border-style: double;
+  background-color: #270082;
+
+  font-family: "Poppins", sans-serif;
+  color: white;
+  margin-top: 5%;
+}
+
+.upitransfer{
+  margin-top: -7%;
+  position: absolute;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  text-transform: capitalize;
+  margin-left: 45%;
+  border: 2px solid black;
+  padding: 10px;
+  background-color: #dd4a48;
+  color: white;
+  border-radius: 10px;
+}
+
+.card {
+position: absolute;
+margin-top: 5%;
+
+padding: 10%;
+
+width: 55rem;
+margin-left: 20%;
+background-color: white;
+
+border-radius: 24px;
+box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2)
+}
+
+
+
+
+
+
+.myimg{
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  margin-left: 43%;
+  margin-bottom: 30%;
+  background-color: #B8405E;
+  padding: 10px;
+  border: 3px solid #B8405E;
+  border-radius: 70px;
+}
+
+
+.paid{
+  position:absolute;
+  background-color: white;
+  margin-left: 15%;
+  margin-top: -6%;
+ 
+  text-transform: capitalize;
+  font-family: 'Montserrat', sans-serif;
+ 
+}
+
+
+
+
+
+.amt{
+ background-color: white;
+ font-family: "Poppins", sans-serif;
+ text-transform: capitalize;
+ padding-bottom: 10%;
+ padding-top: 10%;
+}
+.to{
+  background-color: white;
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+  padding-bottom: 10%;
+ }
+ .trans{
+  background-color: white;
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+  font-size: 39px;
+ }
+  
+
+.test{
+ background-color: white;
+}
+
+.close{
+  position: absolute;
+  margin-left: 25%;
+  padding: 10px 30px;
+  border-radius: 30px;
+  border: 2px solid black;
+  border-style: double;
+  background-color: #270082;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  position: absolute;
+  margin-top: 10%;
+
+}
+
+.mainbtn1{
+  margin-left: 85%;
+  padding: 10px 30px;
+  border-radius: 30px;
+  border: 2px solid black;
+  border-style: double;
+  background-color: #270082;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  position: absolute;
+  margin-top: -25%;
+}
+.mainbtn{
+  margin-left: 70%;
+  padding: 10px 30px;
+  border-radius: 30px;
+  border: 2px solid black;
+  border-style: double;
+  background-color: #270082;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  position: absolute;
+  margin-top: -25%;
+}
+
+
+.my_card{
+
+  margin-top: 5%;
+  padding: 10px 30px;
+  border-radius: 30px;
+  border: 2px solid black;
+  border-style: double;
+  background-color: #270082;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  margin-left: 5%; 
+  width: 55rem;
+
+}
+
+.my_card p{
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+  background-color: #270082;
+  font-size: 20px;
+}
+
+.form-control{
+  position: relative;
+width: 100%;
+}
+
+
+
+.centermine{
+  margin-left: 30%;
+}
+
+
+.find-me{
+    display:block;
+    width: 120px;
+}
+.select-control{
+        width: 50%;
+        margin-bottom: 20px;
+    }
+.form-group{
+    margin-bottom: 20px;
+
+}
+.check_name{
+    margin-left: 38%;
+    margin-bottom: 20px;
+    
+}
+.make_bold{
+    font-weight: bold;
+    font-size: 16px;
+}
